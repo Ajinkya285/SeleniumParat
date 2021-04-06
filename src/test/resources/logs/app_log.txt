@@ -1,0 +1,7 @@
+INFO    2021-02-05 19:18:08,658 [main] testcases.TestProperties  - OR Properties loaded
+INFO    2021-02-05 19:18:08,663 [main] testcases.TestProperties  - Config Properties loaded
+INFO    2021-02-05 19:18:14,758 [main] testcases.TestProperties  - chrome driver launched !!!
+INFO    2021-02-05 19:18:18,797 [main] testcases.TestProperties  - navigated to the Site :https://www.gmail.com/
+INFO    2021-02-05 19:18:19,368 [main] testcases.TestProperties  - Entering username : trainer@way2automation.com
+INFO    2021-02-05 19:18:19,801 [main] testcases.TestProperties  - Clicking on next button
+INFO    2021-02-05 19:18:24,255 [main] testcases.TestProperties  - Test execution completed !!!
